@@ -6,7 +6,7 @@ import { setAuthUser } from '../../store/slices/authSlice';
 import { useNavigate } from 'react-router-dom';
 
 
-const SignUp = () => {
+const Register = () => {
 
     const dispatch = useDispatch();
     const navigate = useNavigate();
@@ -32,4 +32,4 @@ const SignUp = () => {
     );
 };
 
-export default SignUp;
+export default Register;

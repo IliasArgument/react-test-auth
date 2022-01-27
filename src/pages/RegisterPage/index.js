@@ -1,10 +1,10 @@
 import React from 'react';
-import SignUp from '../../components/SignUp';
+import Register from '../../components/Register';
 
 const RegisterPage = () => {
     return (
         <div className="register-page">
-            <SignUp />
+            <Register />
         </div>
     );
 };
