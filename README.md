@@ -11,10 +11,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-В приложении три страницы:
+## В приложении три страницы:
 * Страница входа (если пользователь авторизован)
 * Страница регистрации (если пользователь не авторизован)
 * Страница со списком контактов (реализован поиск контаков, а также добавление, удаление и изменения контакта)
@@ -22,10 +19,10 @@ You may also see any lint errors in the console.
 ## Данные для списков контактов взяты на сайте фейковых данных JSONPlaceholder.
 
 ## В проект использованы такие технологий:
-* React
-* Redux-toolkit
+* ### React
+* ### Redux-toolkit
 
-Для авторизации пользователя исользовал ## firebase Authentication
+## Для авторизации пользователя исользовал ### firebase Authentication
 
 ### Deployment
 
