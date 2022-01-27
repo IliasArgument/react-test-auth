@@ -21,7 +21,7 @@ const Login = () => {
                 }));
                 navigate('/');
             })
-            .catch(() => alert('user is not authorized!'));
+            .catch(() => window.alert('user is not authorized!'));
     }
 return (
     <div className="login">

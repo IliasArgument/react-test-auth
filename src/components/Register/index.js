@@ -22,7 +22,7 @@ const Register = () => {
                 }));
                 navigate('/');
             })
-            .catch(() => alert('user is already logged in!'));
+            .catch(() => window.alert('user is already logged in!'));
     }
 
     return (
