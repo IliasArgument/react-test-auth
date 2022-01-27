@@ -22,7 +22,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 * ### React
 * ### Redux-toolkit
 
-## Для авторизации пользователя исользовал ### firebase Authentication
+## Для авторизации пользователя исользовал firebase Authentication
 
 ### Deployment
 
